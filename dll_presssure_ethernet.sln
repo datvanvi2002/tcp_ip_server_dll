@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dll_presssure_ethernet", "dll_presssure_ethernet\dll_presssure_ethernet.csproj", "{F0390DF5-1890-40D5-8AC4-1D398501FF32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0390DF5-1890-40D5-8AC4-1D398501FF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0390DF5-1890-40D5-8AC4-1D398501FF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0390DF5-1890-40D5-8AC4-1D398501FF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0390DF5-1890-40D5-8AC4-1D398501FF32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C586C35D-5823-47AF-BF8A-D6D4183CF111}
+	EndGlobalSection
+EndGlobal
